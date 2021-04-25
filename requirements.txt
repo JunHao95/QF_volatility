@@ -1,0 +1,8 @@
+math
+enum
+bisect
+scipy
+matplotlib
+cvxopt
+numpy
+
